@@ -89,7 +89,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IIWAGLDJ
 
 [Document4]
 DocumentPath=..\EvaluationBoard_NanEyeC_BackScatter\WCE_thesis.SchLib
@@ -106,7 +106,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XDERQRNL
 
 [Document5]
 DocumentPath=..\..\..\..\..\..\AltiumLL\SamacSys.PcbLib
@@ -141,6 +141,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for WCE_Camera_MCU_board\Design Rule Check - WCE_Camera_MCU.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -261,7 +265,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=\\followprint.win.ntnu.no\ntnuprint-ricoh
+TargetPrinter=OneNote for Windows 10
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
