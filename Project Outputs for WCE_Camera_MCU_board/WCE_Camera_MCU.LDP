@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Simen\OneDrive\Documents\NTNU\V2021\PillCam\Master\Altium\WCE_Camera_MCU_board\WCE_Camera_MCU.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=wce_camera_mcu.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=PWR_Bot_Blind_Vias|DrillFile=wce_camera_mcu.tx2|DrillLayers=g2,gbl

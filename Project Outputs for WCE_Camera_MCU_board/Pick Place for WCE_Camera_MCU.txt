@@ -1,0 +1,32 @@
+Altium Designer Pick and Place Locations
+C:\Users\Simen\OneDrive\Documents\NTNU\V2021\PillCam\Master\Altium\WCE_Camera_MCU_board\Project Outputs for WCE_Camera_MCU_board\Pick Place for WCE_Camera_MCU.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       03/12/21
+Time:       14:35
+Revision:   82722a56ebaaac10ca0100c1866caac723b6e834
+Variant:    No variations
+Units used: mm
+
+Designator Comment          Layer       Footprint             Center-X(mm) Center-Y(mm) Rotation Description                                                        
+S1         NanEyeC          TopLayer    NanEyeC               0.0000       0.0000       0        "Camera module NanEyeC from AMS. The Part will be delivered by us" 
+U1         STM32L051T8Y7DTR BottomLayer STM32L051T8Y7DTR      1.5250       0.0000       90       "STM microcontroller STM32L051T8Y7DTR WLCSP36"                     
+R5         125R             TopLayer    RESC0603X28X15NL5T05  -1.4250      2.3000       0        "Thin film Resistor 125 OHM 0.1%-1% 100 mW (1/10 W) 0201"          
+R4         10k              TopLayer    RESC0603X28X15NL5T05  -2.6500      0.7000       270      "Thin film Resistor 125 OHM 0.1%-1% 100 mW (1/10 W) 0201"          
+R3         24R              TopLayer    RESC0603X28X15NL5T05  -1.7500      0.3700       180      "Thin film Resistor 125 OHM 0.1%-1% 100 mW (1/10 W) 0201"          
+R2         10k              TopLayer    RESC0603X28X15NL5T05  -2.6500      -0.6500      90       "Thin film Resistor 125 OHM 0.1%-1% 100 mW (1/10 W) 0201"          
+R1         24R              TopLayer    RESC0603X28X15NL5T05  -1.7500      -0.3200      180      "Thin film Resistor 125 OHM 0.1%-1% 100 mW (1/10 W) 0201"          
+LED2       SML-LX0201NWD-TR TopLayer    SML-LX0201NWD-TR      0.0000       -2.3000      180      "Lumex LED 0201 SML-LX0201NWD-TR"                                  
+LED1       SML-LX0201NWD-TR TopLayer    SML-LX0201NWD-TR      0.0000       2.3000       180      "Lumex LED 0201 SML-LX0201NWD-TR"                                  
+L1         CB2012T101K      TopLayer    FP-CB2012-MFG         2.2000       1.4000       90       "SMD Inductors 100uH ±10% 0.13A 9.1O 0805"                         
+C9         10uF             BottomLayer CAPC0603X33X15LL03T05 2.7000       1.9700       270      "Capacitor 10 uF 0201 XR5"                                         
+C8         100nF            BottomLayer CAPC0603X33X15LL03T05 2.1250       1.9700       270      "Capacitor 100 nF 0201 XR5"                                        
+C7         100nF            BottomLayer CAPC0603X33X15LL03T05 1.5500       1.9700       270      "Capacitor 100 nF 0201 XR5"                                        
+C6         100nF            TopLayer    CAPC0603X33X15LL03T05 0.2500       1.2950       270      "Capacitor 100 nF 0201 XR5"                                        
+C5         0.1uF            TopLayer    CAPC0603X33X15LL03T05 0.8500       1.2950       270      "Capacitor 0.1 uF 0201 XR5"                                        
+C4         100nF            TopLayer    CAPC0603X33X15LL03T05 -2.9000      2.3000       0        "Capacitor 100 nF 0201 XR5"                                        
+C3         15pF             TopLayer    CAPC0603X33X15LL03T05 -0.8500      0.6500       270      "Capacitor 15 pF 0201 XR5"                                         
+C2         470nF            TopLayer    CAPC0603X33X15LL03T05 0.8500       0.0000       270      "Capacitor 470 nF 0201 XR5"                                        
+C1         15pF             TopLayer    CAPC0603X33X15LL03T05 -0.8500      -0.6000      90       "Capacitor 15 pF 0201 XR5"                                         
